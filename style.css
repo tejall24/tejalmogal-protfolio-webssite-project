@@ -3,7 +3,7 @@ body {
   margin: 0;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   background: #f8f9fa;
-  color: #222;
+  color: #222;;
 }
 
 a {
@@ -220,3 +220,4 @@ nav ul li a:hover {
     font-size: 16px;
   }
 }
+
